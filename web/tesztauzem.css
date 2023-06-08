@@ -1,0 +1,25 @@
+*{
+    font-family: Muli-Light;
+    font-size: 18px;
+}
+
+h1, h3, h3, h4{
+    font-family: Muli-ExtraBold;
+}
+
+.fejlec-kep{
+    background-image: url(tesztauzem-fejlec.jpg);
+    height: 500px;
+    color: white;
+    text-align: center;
+}
+
+#tesztauzem-kep{
+    width: 95%;
+}
+
+.akció{
+background-color: #d6c5c5;
+padding: 15px;
+font-weight: 700;
+}
